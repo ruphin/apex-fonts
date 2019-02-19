@@ -1,6 +1,6 @@
 {
   "name": "@apex-elements/fonts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The Apex Legends fonts",
   "main": "fonts.js",
   "repository": "git@github.com:ruphin/apex-fonts.git",
