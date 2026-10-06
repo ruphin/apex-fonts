@@ -2,6 +2,7 @@
   "name": "@apex-elements/fonts",
   "version": "0.0.1",
   "description": "The Apex Legends fonts",
+  "type": "module",
   "main": "fonts.js",
   "repository": "git@github.com:ruphin/apex-fonts.git",
   "author": "Goffert van Gool",
